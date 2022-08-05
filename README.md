@@ -1,11 +1,13 @@
 # node-plop-example
 Simple node plop example or automate note process from cli
 
+## Installation
+npm install
 
-When you just run plop prompt
+### When you just run plop prompt
 
-Ex : npm run plop
+```  Ex : npm run plop ```
 
-When you want to automate by passsing values along with command
+### When you want to automate by passsing values along with command
 
-Ex : node index.js --title=jsd --description=jsdTitle
+``` Ex : node index.js --title=jsd --description=jsdTitle ```
